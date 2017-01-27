@@ -26,19 +26,29 @@ In your third window, you can type the same command. Congrats! You are now conne
 Here are the following commands you can type in the chatroom. All contents contained in ``<>`` means you can customize this as you see fit. 
 
 To change your username:
-``/nick <name>``
+```
+/nick <name>
+```
 
 To send a message to everyone in the chatroom:
-``/all <your message>``
+```
+/all <your message>
+```
 
 To get a list of all other users in the chatroom:
-``/users``
+```
+/users
+```
 
 To troll all the users in the chatroom (not recommended, but always fun):
-``/troll <your preferably inappropriate message here>``
+```
+/troll <your preferably inappropriate message here>
+```
 
 To ban a user from a chatroom because they abused the above command too much:
-``/ban <username>``
+```
+/ban <username>
+```
 
 If you have a budding social life, you can tell your friends to connect to this TCP chatroom on their own computer. They can open up their own terminal and type in:
 
