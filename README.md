@@ -57,7 +57,7 @@ telnet <your computer's IP adderss>
 ```
 To find your own IP address, type into your own terminal:
 ```
-ifconfig |grep inet
+ipconfig |grep inet
 ```
 
 You will see a response that looks like the following:

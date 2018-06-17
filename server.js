@@ -55,5 +55,5 @@ server.on('connection', function(socket){
 });
 
 server.listen(PORT, function(){
-  console.log('server up on port: ', PORT);
+  console.log('server up on port: ', PORT || 3000);
 });
